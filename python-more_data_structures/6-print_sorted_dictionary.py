@@ -5,5 +5,5 @@
 def print_sorted_dictionary(a_dictionary):
     """Print each key/value pair of a_dictionary sorted by key."""
     for key in sorted(a_dictionary.keys()):
-        print("{}: {}".format(key, a_dictionary[key]))o
+        print("{}: {}".format(key, a_dictionary[key]))
 
